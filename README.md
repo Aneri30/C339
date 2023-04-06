@@ -71,7 +71,6 @@ This Repository contains all the details about what I have learned and implement
 - Azure Pricing, Service Levels, and Lifecycle
 - Creating and Managing Resources
 - Supplemental Resources
-
-## Azure Data Factory
-## Databricks
+- Azure Data Factory
+- Databricks
 
