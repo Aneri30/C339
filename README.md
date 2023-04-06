@@ -60,3 +60,18 @@ This Repository contains all the details about what I have learned and implement
 – Transactions
 – Schema Optimization and Indexing
 – Replication and Scaling
+
+## AZURE FUNDAMENTALS
+- Cloud Concepts
+- Understanding Cloud Fundamentals
+- Azure Core Services
+- Azure Core Networking Services
+- Security Compliance, Privacy and Trust
+- Azure Solutions
+- Azure Pricing, Service Levels, and Lifecycle
+- Creating and Managing Resources
+- Supplemental Resources
+
+## Azure Data Factory
+## Databricks
+
