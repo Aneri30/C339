@@ -6,6 +6,8 @@ This Repository contains all the details about what I have learned and implement
 - Python 3
 - MySQL Server
 - MySQL Workbench
+- Azure
+- Databricks
 
 ## PYTHON
 * Python Basics
